@@ -1,7 +1,5 @@
 # Student Performance Project
 
-### Hi, I'm Kawsar Ahmed, and I warmly welcome you to delve into the fascinating world of student performance analysis project! 
-
 This project analyzes student performance based on various factors such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course completion. The dataset used for this project is stored in a CSV file named 'stud.csv'.
 
 To begin with, the project imports necessary libraries such as numpy, pandas, seaborn, matplotlib, and plotly.graph_objects. 
@@ -30,7 +28,7 @@ Furthermore, the project endeavors to employ advanced machine learning models to
 
 ###  Data Import and Exploration:
 
-1. Utilize the powerful pandas library to import the dataset from the 'stud.csv' file.
+1. Utilize the pandas library to import the 'stud.csv' dataset and convert it to a dataframe.
 2. Conduct a meticulous exploration of the dataset to gain insights into its structure and contents.
 3. Scrutinize the data for potential missing or inconsistent values, ensuring data integrity.
 
